@@ -6,7 +6,7 @@ Repositório criado para desafio de projeto Git/GitHub do Bootcamp da Dio. Aqui 
 * O que estiver dentro da tag <head> não vai aparecer no corpo da pagina para o usuário;
 * Meta charset = "UTF8" Significa compatibilidade com caracteres padrão (acentos, ç, etc...);
 * Em metaname="keywords"content="", coloca-se palavras chaves úteis para mecanismos de pesquisas;
-* A tag <b> </b> deixa o texto em negrito e a tag <strong> dá maior ênfase ao texto;
+  * A tag <b> </b> deixa o texto em negrito e a tag <strong></strong> dá maior ênfase ao texto;
 * Links ou hiperlinks: Vão de um documento para outro. <a href= "umsiteaqui.com" > Clique para ver o codigo para colocar link </a>
   Se depois do site, colocar target="blank" > aqui o que aparece </a> ,  esse site vai abrir em uma nova aba.
   Usa-se <a href="outrapagina.html" > Clique para ver o codigo para ir pra uma aba dentro do mesmo site. Ex: Sobre nós </a> para ir de uma página a outra dentro do seu próprio site, para isso, é preciso ter criado um   novo documento html com o conteúdo dessa outra página;
