@@ -1,7 +1,7 @@
 # desafio-de-projeto-dio
 Repositório criado para desafio de projeto Git/GitHub do Bootcamp da Dio. Aqui vou colocar o meu processo de aprendizagem em HTML.
 ## Olá! Bem vindo ao meu primeiro repositório! :slightly_smiling_face:
-### Alguns anotações importantes sobre HTML:
+### Algumas anotações importantes sobre HTML:
 * É uma linguagem de *marcação* de hiper texto;
 * O que estiver dentro da tag <head> não vai aparecer no corpo da pagina para o usuário;
 * Meta charset = "UTF8" Significa compatibilidade com caracteres padrão (acentos, ç, etc...);
