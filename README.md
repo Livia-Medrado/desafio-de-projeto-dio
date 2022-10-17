@@ -3,7 +3,7 @@ Repositório criado para desafio de projeto Git/GitHub do Bootcamp da Dio. Aqui 
 ## Olá! Bem vindo ao meu primeiro repositório! :slightly_smiling_face:
 ### Algumas anotações importantes sobre HTML:
 * É uma linguagem de *marcação* de hiper texto;
-* O que estiver dentro da tag <head> não vai aparecer no corpo da pagina para o usuário;
+* O que estiver dentro da tag head não vai aparecer no corpo da pagina para o usuário;
 * Meta charset = "UTF8" Significa compatibilidade com caracteres padrão (acentos, ç, etc...);
 * Em metaname="keywords"content="", coloca-se palavras chaves úteis para mecanismos de pesquisas;
   * A tag <b> </b> deixa o texto em negrito e a tag <strong></strong> dá maior ênfase ao texto;
